@@ -1,4 +1,6 @@
-# md loader
+# Vue Markdown Doc
+
+包含 VueMarkdownDoc 组件 和 VueMarkdownDocLoader
 
 #### 使用
 
